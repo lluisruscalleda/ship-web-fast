@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Home",
+    "cards": "Cards"
+  },
+  "footer": {
+    "attribution": "Card data © Scryfall. Magic: The Gathering is a trademark of Wizards of the Coast."
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "back": "Go home"
+  }
+}

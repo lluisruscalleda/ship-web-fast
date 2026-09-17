@@ -1,0 +1,6 @@
+{
+  "title": "Ship Web Fast",
+  "subtitle": "React template with Clean Architecture, Redux Saga, and layered domains.",
+  "cta": "Browse Magic cards",
+  "attribution": "This demo uses the Scryfall API. Unofficial fan content under the Wizards Fan Content Policy."
+}

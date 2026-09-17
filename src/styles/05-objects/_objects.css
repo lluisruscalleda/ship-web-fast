@@ -1,0 +1,13 @@
+@layer components {
+  .o-container {
+    @apply mx-auto w-full max-w-content px-4 md:px-6;
+  }
+
+  .o-stack {
+    @apply flex flex-col gap-4;
+  }
+
+  .o-page-header {
+    @apply mb-6 border-b border-zinc-200 pb-4;
+  }
+}

@@ -1,0 +1,7 @@
+@import './03-generic/_generic.css';
+@import './04-elements/_elements.css';
+@import './05-objects/_objects.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

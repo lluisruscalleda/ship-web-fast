@@ -1,0 +1,13 @@
+{
+  "title": "Magic Cards",
+  "subtitle": "Search Scryfall for Magic: The Gathering cards",
+  "searchPlaceholder": "Scryfall search query (e.g. type:creature, set:lea)",
+  "searchButton": "Search",
+  "loading": "Loading cards…",
+  "retry": "Try again",
+  "empty": "No cards to display",
+  "results": "{{count}} cards on this page",
+  "errors": {
+    "generic": "Could not load cards. Please try again."
+  }
+}
